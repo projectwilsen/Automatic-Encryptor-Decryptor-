@@ -1,9 +1,3 @@
-# Dibuat oleh:
-#Kelompok 9
-# Netri Alia Rahmi             162112133029
-# Geraldus Wilsen              162112133043
-# Christeigen Theodore Suhalim 162112133055
-
 def encryptor():
     # Membuka File Plain Text dalam bentuk txt
     fileplaintext = input("Nama File Plain Text:")
