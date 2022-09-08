@@ -1,9 +1,3 @@
-# Dibuat oleh:
-#kelompok 9
-# Netri Alia Rahmi             162112133029
-# Geraldus Wilsen              162112133043
-# Christeigen Theodore Suhalim 162112133055
-
 def decryptor():
 
     # Membuka File Cipher Text dalam bentuk txt
